@@ -5,7 +5,7 @@ Processes unstructured flooding incident reports collected from the Iowa State U
 Normalizes text data, extracts important fields (such as street names and event types), and visualizes flooding patterns that could help emergency planners.
 
 ## Data
-- **Source**: Iowa State University NWS Archive  
+- **Source**: Iowa State University NWS Archive and emergency coordinator incident logs
 - **Format**: Unstructured incident reports (text)  
 - **Challenges**: Inconsistent capitalization and street suffix inclusion in flood reports 
 
@@ -37,5 +37,6 @@ Using Excel pivot tables, I created a pie chart summarizing the number of flood 
 - `Charts/` –  Collection of charts derived from pivot tables and presented to Director and Senior Emergency Coordinators
 - `Luling_Demo.csv/` – Sample dataset extracted from raw data by filtering for Luling flood reports
 - `Project_Overview.ipynb` – Jupyter notebooks with data cleaning + analysis steps 
+
 
 👉 More charts available in the [Charts Folder](Charts).
