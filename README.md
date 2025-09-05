@@ -27,7 +27,7 @@ Normalizes text data, extracts important fields (such as street names and event 
 # Example Visualization
 Using Excel pivot tables, I created a pie chart summarizing the number of flood reports for streets nearby local schools. The chart revealed that five streets accounted for more than 55% of total reports. This insight suggested that emergency coordinators should prioritize mitigation strategies in these areas.
 
-![Flooding Near Target Schools Visualization](2025_Summer_Analysis\Charts\Reports_Near_Target_Schools.png)
+![Flooding Near Target Schools Visualization]([https://github.com/cordialApple/flood-report-analysis/blob/main/Summer%202025%20Analysis/Charts/Reports_Near_Target_Schools.png])
 
 ## Impact
 - Reduced manual processing time for analyzing raw reports  
@@ -39,5 +39,6 @@ Using Excel pivot tables, I created a pie chart summarizing the number of flood 
 - `Project_Overview.ipynb` – Jupyter notebooks with data cleaning + analysis steps 
 
 
-👉 More charts available in the [Charts Folder](2025_Summer_Analysis\Charts).
+👉 More charts available in ([2025_Summer_Analysis\Charts](https://github.com/cordialApple/flood-report-analysis/tree/main/Summer%202025%20Analysis/Charts)).
+
 
